@@ -1,6 +1,8 @@
 # VS Code extension: SQL tagged template literals
 
-A VS Code extension, which enables syntax highlighting for template literals tagged with an `sql` function in JavaScript and TypeScript files.
+A VS Code extension, which enables syntax highlighting for template literals tagged with an `sql` function in JavaScript and TypeScript files. That function can be defined as follows:
+
+`const sql = String.raw;`
 
 There are 2 version of the extension available:
 
